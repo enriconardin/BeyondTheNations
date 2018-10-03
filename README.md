@@ -1,2 +1,2 @@
-# BeyondtheNations
+# BeyondTheNations
 this is a project for new kind of social net
